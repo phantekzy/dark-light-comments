@@ -54,3 +54,15 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 Notes
 The project uses a test API (https://jsonplaceholder.typicode.com), so comment data is not permanently saved.
 
+
+## Screenshots
+
+### Light Theme
+
+![Light Theme Background](screenshots/bac-light.png)
+
+### Dark Theme
+
+![Dark Theme Background](screenshots/bac-dark.png)
+
+
