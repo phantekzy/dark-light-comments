@@ -59,10 +59,11 @@ The project uses a test API (https://jsonplaceholder.typicode.com), so comment d
 
 ### Light Theme
 
-![Light Theme Background](screenshots/bac-light.png)
+![Light Theme Background](screenshots/bac-light.jfif)
 
 ### Dark Theme
 
-![Dark Theme Background](screenshots/bac-dark.png)
+![Dark Theme Background](screenshots/bac-dark.jfif)
+
 
 
